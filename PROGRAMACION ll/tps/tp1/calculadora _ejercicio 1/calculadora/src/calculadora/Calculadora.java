@@ -5,6 +5,8 @@
  */
 package calculadora;
 
+import java.util.Scanner;
+
 /**
  *
  * @author tomia
@@ -17,32 +19,26 @@ public class Calculadora {
     public static void main(String[] args) {
         // TODO code application logic here
         float nro1, nro2;
-        int opc;
         
-        System.out.println("Este programa es uuna calculadora");
+        Scanner sc = new Scanner(System.in);
+        String nombre;
+        
+        System.out.println("Este programa es una calculadora");
         System.out.println("Ingrese su nombre");
-        System.out.println("MENU");
-        System.out.println("1: Suma");
-        System.out.println("2: Resta");
-        System.out.println("3: Multiplicacíon");
-        System.out.println("División");
-        switch(opc){
-            case 1:
-            
-                break;
-            case 2:
-                
-                break;
-            case 3:
-                
-             break;
-            case 4:
-                break;
-                
-            default:
-                System.out.println("El numero ingresado es incorrecto");
-            
-        }
+        nombre= sc.nextLine();
+        
+        System.out.println("Ingrese el primer numero");
+        nro1= sc.nextInt();
+        System.out.println("Ingrese el segundo numero");
+        nro2= sc.nextInt();
+        Menu menu_calculadora = new Menu();
+        menu_calculadora.Menu();
+        menu_calculadora.operacion(nro1, nro2);
+        
+        System.out.println("Tu nombre es: " + nombre);
+        
+        System.out.println("...................................................t");
+       
     }
     
 }

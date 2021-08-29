@@ -36,6 +36,7 @@ public class Autos {
                 
             }
             
+                
             //Este metodo devuelve el consumo del recorido
             public float consumo_recorrido(){
                 float consumo;

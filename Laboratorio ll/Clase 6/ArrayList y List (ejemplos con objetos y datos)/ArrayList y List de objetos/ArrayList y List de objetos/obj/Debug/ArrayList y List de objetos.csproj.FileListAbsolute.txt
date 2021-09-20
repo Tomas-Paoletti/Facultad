@@ -1,0 +1,6 @@
+c:\users\yisus\documents\visual studio 2015\Projects\ArrayList y List de objetos\ArrayList y List de objetos\bin\Debug\ArrayList y List de objetos.exe.config
+c:\users\yisus\documents\visual studio 2015\Projects\ArrayList y List de objetos\ArrayList y List de objetos\bin\Debug\ArrayList y List de objetos.exe
+c:\users\yisus\documents\visual studio 2015\Projects\ArrayList y List de objetos\ArrayList y List de objetos\bin\Debug\ArrayList y List de objetos.pdb
+c:\users\yisus\documents\visual studio 2015\Projects\ArrayList y List de objetos\ArrayList y List de objetos\obj\Debug\ArrayList y List de objetos.csprojResolveAssemblyReference.cache
+c:\users\yisus\documents\visual studio 2015\Projects\ArrayList y List de objetos\ArrayList y List de objetos\obj\Debug\ArrayList y List de objetos.exe
+c:\users\yisus\documents\visual studio 2015\Projects\ArrayList y List de objetos\ArrayList y List de objetos\obj\Debug\ArrayList y List de objetos.pdb

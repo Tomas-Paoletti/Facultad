@@ -1,0 +1,6 @@
+C:\Users\Yisus\Documents\visual studio 2015\Projects\Herencia_Polimorfismo_ClaseAbstracta\Herencia y Polimorfismo\bin\Debug\Herencia_Polimorfismo_ClaseAbstracta.exe.config
+C:\Users\Yisus\Documents\visual studio 2015\Projects\Herencia_Polimorfismo_ClaseAbstracta\Herencia y Polimorfismo\bin\Debug\Herencia_Polimorfismo_ClaseAbstracta.exe
+C:\Users\Yisus\Documents\visual studio 2015\Projects\Herencia_Polimorfismo_ClaseAbstracta\Herencia y Polimorfismo\bin\Debug\Herencia_Polimorfismo_ClaseAbstracta.pdb
+C:\Users\Yisus\Documents\visual studio 2015\Projects\Herencia_Polimorfismo_ClaseAbstracta\Herencia y Polimorfismo\obj\Debug\Herencia_Polimorfismo_ClaseAbstracta.csprojResolveAssemblyReference.cache
+C:\Users\Yisus\Documents\visual studio 2015\Projects\Herencia_Polimorfismo_ClaseAbstracta\Herencia y Polimorfismo\obj\Debug\Herencia_Polimorfismo_ClaseAbstracta.exe
+C:\Users\Yisus\Documents\visual studio 2015\Projects\Herencia_Polimorfismo_ClaseAbstracta\Herencia y Polimorfismo\obj\Debug\Herencia_Polimorfismo_ClaseAbstracta.pdb

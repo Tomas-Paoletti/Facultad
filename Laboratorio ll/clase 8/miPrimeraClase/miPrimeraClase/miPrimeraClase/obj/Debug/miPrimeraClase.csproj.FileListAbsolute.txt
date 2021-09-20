@@ -1,0 +1,6 @@
+C:\Users\Yisus\Desktop\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.exe.config
+C:\Users\Yisus\Desktop\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.exe
+C:\Users\Yisus\Desktop\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.pdb
+C:\Users\Yisus\Desktop\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.csprojResolveAssemblyReference.cache
+C:\Users\Yisus\Desktop\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.exe
+C:\Users\Yisus\Desktop\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.pdb

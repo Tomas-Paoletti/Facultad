@@ -37,7 +37,7 @@ public class Calculadora {
         
         System.out.println("Tu nombre es: " + nombre);
         
-        System.out.println("...................................................t");
+        System.out.println("...................................................");
        
     }
     

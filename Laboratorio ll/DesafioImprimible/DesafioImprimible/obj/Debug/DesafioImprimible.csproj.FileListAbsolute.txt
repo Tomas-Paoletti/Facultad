@@ -1,0 +1,7 @@
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\DesafioImprimible\DesafioImprimible\obj\Debug\DesafioImprimible.csproj.AssemblyReference.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\DesafioImprimible\DesafioImprimible\obj\Debug\DesafioImprimible.csproj.CoreCompileInputs.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\DesafioImprimible\DesafioImprimible\bin\Debug\DesafioImprimible.exe.config
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\DesafioImprimible\DesafioImprimible\bin\Debug\DesafioImprimible.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\DesafioImprimible\DesafioImprimible\bin\Debug\DesafioImprimible.pdb
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\DesafioImprimible\DesafioImprimible\obj\Debug\DesafioImprimible.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\DesafioImprimible\DesafioImprimible\obj\Debug\DesafioImprimible.pdb

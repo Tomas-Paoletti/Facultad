@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5F1BAAD7-1C86-486B-96DC-DF496D666EA7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoFinalProgramacion</RootNamespace>
+    <AssemblyName>ProyectoFinalProgramacion</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.27.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Installer for Windows\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\AdministrarObras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdministrarObras.Designer.cs">
+      <DependentUpon>AdministrarObras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\BDAdmin.cs" />
+    <Compile Include="Admin\Usuario.cs" />
+    <Compile Include="Exhibicion\EXCuadros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exhibicion\EXCuadros.Designer.cs">
+      <DependentUpon>EXCuadros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\IniciarSesionAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\IniciarSesionAdministrador.Designer.cs">
+      <DependentUpon>IniciarSesionAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exhibicion\Objetos\Cuadro.cs" />
+    <Compile Include="Exhibicion\Objetos\Escultura.cs" />
+    <Compile Include="Exhibicion\Objetos\Obra.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Exhibicion\Visitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exhibicion\Visitante.Designer.cs">
+      <DependentUpon>Visitante.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\AdministrarObras.resx">
+      <DependentUpon>AdministrarObras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exhibicion\EXCuadros.resx">
+      <DependentUpon>EXCuadros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\IniciarSesionAdministrador.resx">
+      <DependentUpon>IniciarSesionAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Exhibicion\Visitante.resx">
+      <DependentUpon>Visitante.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\louvre-museum-night.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\louvre-museum-night1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cartel museo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MonaLisa.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\La Libertad Guiando Al Pueblo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\La_balsa_de_la_medusa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\louvre-escultura-bronce-hombre-serpiente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mona_lisa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tríada de Osorkon II.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tumba-de-philippe-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Victoria-de-samotracia-1-768x1024.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

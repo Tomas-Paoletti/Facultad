@@ -14,102 +14,68 @@ namespace desafio_herencia_15_final
         public Local(int Cant_metros, String direccion, int antiguedad, double precio, int ventanas) : base(Cant_metros, antiguedad, direccion,  precio)
         {
         
-            this.Cant_metros = Cant_metros;
+            this.Superficie = Cant_metros;
             this.Direccion = direccion;
             this.Antiguedad = antiguedad;
             this.PrecioBase = precio;
             this.nroVentanas = ventanas;
         }
-        
+       
 
         public override double calcularPrecio()
         {
-            double precioFinal=0;
-            if (this.Cant_metros < 50 && this.nroVentanas <= 1)
+            if (Antiguedad < 15 && Antiguedad > 0)
             {
-                precioFinal = (double)(this.PrecioBase + (this.PrecioBase * 0.02));
-                if (this.Antiguedad < 15 & this.Antiguedad > 0)
-                {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.01));
 
-                }
-                else if (this.Antiguedad > 15)
-                {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.02));
 
+                if (Superficie > 50)
+                {
+                    if (nroVentanas == 0 || nroVentanas == 1)
+                    {
+                        PrecioBase = PrecioBase - (PrecioBase * 0.01);
+                    }
+                    else if (nroVentanas >= 4)
+                    {
+                        PrecioBase *= 1.03;
+                    }
+                    else PrecioBase = PrecioBase * 1.01;
                 }
-                else;
-            
-            }
-            else if (this.Cant_metros < 50 && this.nroVentanas >= 4)
-            {
-                precioFinal = (double)(this.PrecioBase + (this.PrecioBase * 0.04));
+                else PrecioBase -= (PrecioBase * 0.01);
                 
 
-                if (this.Antiguedad < 15 & this.Antiguedad > 0)
-                {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.01));
-                    
-
-                }
-                else if (this.Antiguedad > 15)
-                {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.02));
-                   
-
-                }
-                else
-                    precioFinal = (double)(this.PrecioBase + (this.PrecioBase * 0.02));
-
-                if (this.Antiguedad < 15 & this.Antiguedad > 0)
-                {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.01));
-                    
-
-                }
-                else if (this.Antiguedad > 15)
-                {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.02));
-                   
-
-                }
-                else;
-               
-            }
-            else if (this.Cant_metros >= 50 && this.nroVentanas <= 1)
+            }else if (Antiguedad > 15)
             {
-                precioFinal = (double)((this.PrecioBase * 1.01) - (this.PrecioBase * 0.02));
 
-                precioFinal = (double)(this.PrecioBase + (this.PrecioBase * 0.02));
-                if (this.Antiguedad < 15 & this.Antiguedad > 0)
+                if (Superficie > 50)
                 {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.01));
-                  
+                    if (nroVentanas == 0 || nroVentanas == 1)
+                    {
+                        PrecioBase = PrecioBase - (PrecioBase * 0.01);
+                    }
+                    else if (nroVentanas >= 4)
+                    {
+                        PrecioBase *= 1.03;
+                    }
+                    else PrecioBase = PrecioBase * 1.01;
                 }
-                else if (this.Antiguedad > 15)
-                {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.02));
-                   
-                }
-            
+                else PrecioBase -= (PrecioBase * 0.02);
             }
-            else if (this.Cant_metros >= 50 && this.nroVentanas >= 1)
-            {
-                precioFinal = (double)((this.PrecioBase * 1.01) + (this.PrecioBase * 0.02));
-                precioFinal = (double)(this.PrecioBase + (this.PrecioBase * 0.02));
-                if (this.Antiguedad < 15 & this.Antiguedad > 0)
+            else {
+                if (Superficie > 50)
                 {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.01));
-                    
+                    if (nroVentanas == 0 || nroVentanas == 1)
+                    {
+                        PrecioBase = PrecioBase - (PrecioBase * 0.01);
+                    }
+                    else if (nroVentanas >= 4)
+                    {
+                        PrecioBase *= 1.03;
+                    }
+                    else PrecioBase = PrecioBase * 1.01;
                 }
-                else if (this.Antiguedad > 15)
-                {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.02));
-                    
-                }
-            }
 
-            return precioFinal;
+            }
+            return PrecioBase;
             }
         }
 

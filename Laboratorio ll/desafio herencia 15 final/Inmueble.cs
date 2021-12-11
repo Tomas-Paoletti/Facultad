@@ -10,14 +10,14 @@ namespace desafio_herencia_15_final
     {
 
         //declaramos los atributos padres
-        protected double Precio_x_metro = 150, Cant_metros ;
+        protected double  Superficie ;
         protected double PrecioBase;
         protected int Antiguedad;
         protected String Direccion;
         //constructor
         public Inmueble(double Cant_metros, int Antiguedad, String Direccion, double PrecioBase)
         {
-            this.Cant_metros = Cant_metros;
+            this.Superficie = Cant_metros;
             this.Antiguedad = Antiguedad;
             this.PrecioBase = PrecioBase;
             this.Direccion = Direccion;

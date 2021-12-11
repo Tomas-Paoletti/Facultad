@@ -45,7 +45,6 @@ namespace desafio_herencia_15_final
             this.tbxAntiguedad = new System.Windows.Forms.TextBox();
             this.tbxPreciobase = new System.Windows.Forms.TextBox();
             this.btnCalcular = new System.Windows.Forms.Button();
-            this.lblPrecioFinal = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -56,7 +55,6 @@ namespace desafio_herencia_15_final
             this.label1.Size = new System.Drawing.Size(117, 17);
             this.label1.TabIndex = 0;
             this.label1.Text = "Tipo de inmueble";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // rbtPiso
             // 
@@ -111,6 +109,7 @@ namespace desafio_herencia_15_final
             this.tbxVentanas.Name = "tbxVentanas";
             this.tbxVentanas.Size = new System.Drawing.Size(100, 22);
             this.tbxVentanas.TabIndex = 7;
+            this.tbxVentanas.TextChanged += new System.EventHandler(this.tbxVentanas_TextChanged);
             // 
             // label4
             // 
@@ -183,25 +182,15 @@ namespace desafio_herencia_15_final
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(373, 39);
             this.btnCalcular.TabIndex = 16;
-            this.btnCalcular.Text = "Clcular Precio Final";
+            this.btnCalcular.Text = "Calcular Precio Final";
             this.btnCalcular.UseVisualStyleBackColor = true;
             this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
-            // 
-            // lblPrecioFinal
-            // 
-            this.lblPrecioFinal.AutoSize = true;
-            this.lblPrecioFinal.Location = new System.Drawing.Point(47, 430);
-            this.lblPrecioFinal.Name = "lblPrecioFinal";
-            this.lblPrecioFinal.Size = new System.Drawing.Size(121, 17);
-            this.lblPrecioFinal.TabIndex = 17;
-            this.lblPrecioFinal.Text = "El precio total es: ";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 497);
-            this.Controls.Add(this.lblPrecioFinal);
+            this.ClientSize = new System.Drawing.Size(449, 497);
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.tbxPreciobase);
             this.Controls.Add(this.tbxAntiguedad);
@@ -244,7 +233,6 @@ namespace desafio_herencia_15_final
         private System.Windows.Forms.TextBox tbxAntiguedad;
         private System.Windows.Forms.TextBox tbxPreciobase;
         private System.Windows.Forms.Button btnCalcular;
-        private System.Windows.Forms.Label lblPrecioFinal;
     }
 }
 

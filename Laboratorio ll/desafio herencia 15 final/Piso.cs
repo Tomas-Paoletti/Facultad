@@ -12,35 +12,42 @@ namespace desafio_herencia_15_final
 
         public Piso(double Cant_metros, int Antiguedad, string Direccion, double PrecioBase, int nroPiso) : base(Cant_metros, Antiguedad, Direccion, PrecioBase)
         {
-            this.Cant_metros = Cant_metros;
+            this.Superficie = Cant_metros;
             this.Antiguedad = Antiguedad;
             this.Direccion = Direccion;
             this.PrecioBase = PrecioBase;
             this.nroPiso = nroPiso;
         }
-
+        public String mostrar()
+        {
+            return Convert.ToString(PrecioBase);
+        }
         public override double calcularPrecio()
         {
-            double precioFinal=0;
-            if (this.Cant_metros < 50 && this.nroPiso >= 3)
+           
+           if (Antiguedad<15 && Antiguedad > 0)
             {
-                precioFinal = (double)(this.PrecioBase + (this.PrecioBase * 0.04));
-                if (this.Antiguedad < 15 & this.Antiguedad > 0)
-                {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.01));
-
-                }
-                else if (this.Antiguedad > 15)
-                {
-                    precioFinal = (double)(precioFinal - (precioFinal * 0.02));
-
-                }
-                else precioFinal = PrecioBase;
-
-
                 
+                if (nroPiso >= 3)
+                {
+                    PrecioBase=(PrecioBase*1.02);
+                }
+                else PrecioBase =  PrecioBase-(PrecioBase * 0.01) ;
+
             }
-            return precioFinal;
+           else if (Antiguedad > 15)
+            {
+                if (nroPiso >= 3)
+                {
+                    PrecioBase = PrecioBase * 1.01;
+                }
+                else PrecioBase =  PrecioBase-(PrecioBase * 0.02) ;
+            }else if (nroPiso >= 3)
+            {
+                PrecioBase = PrecioBase * 1.03;
+            }
+           
+            return PrecioBase;
         }
     }
 }

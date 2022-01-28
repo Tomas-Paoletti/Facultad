@@ -1,0 +1,20 @@
+C:\Users\tomia\source\repos\desafio herencia 15 final\bin\Debug\desafio herencia 15 final.exe.config
+C:\Users\tomia\source\repos\desafio herencia 15 final\bin\Debug\desafio herencia 15 final.exe
+C:\Users\tomia\source\repos\desafio herencia 15 final\bin\Debug\desafio herencia 15 final.pdb
+C:\Users\tomia\source\repos\desafio herencia 15 final\obj\Debug\desafio herencia 15 final.csproj.AssemblyReference.cache
+C:\Users\tomia\source\repos\desafio herencia 15 final\obj\Debug\desafio_herencia_15_final.Form1.resources
+C:\Users\tomia\source\repos\desafio herencia 15 final\obj\Debug\desafio_herencia_15_final.Properties.Resources.resources
+C:\Users\tomia\source\repos\desafio herencia 15 final\obj\Debug\desafio herencia 15 final.csproj.GenerateResource.cache
+C:\Users\tomia\source\repos\desafio herencia 15 final\obj\Debug\desafio herencia 15 final.csproj.CoreCompileInputs.cache
+C:\Users\tomia\source\repos\desafio herencia 15 final\obj\Debug\desafio herencia 15 final.exe
+C:\Users\tomia\source\repos\desafio herencia 15 final\obj\Debug\desafio herencia 15 final.pdb
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\desafio herencia 15 final\obj\Debug\desafio herencia 15 final.csproj.AssemblyReference.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\desafio herencia 15 final\obj\Debug\desafio_herencia_15_final.Form1.resources
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\desafio herencia 15 final\obj\Debug\desafio_herencia_15_final.Properties.Resources.resources
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\desafio herencia 15 final\obj\Debug\desafio herencia 15 final.csproj.GenerateResource.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\desafio herencia 15 final\obj\Debug\desafio herencia 15 final.csproj.CoreCompileInputs.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\desafio herencia 15 final\obj\Debug\desafio herencia 15 final.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\desafio herencia 15 final\obj\Debug\desafio herencia 15 final.pdb
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\desafio herencia 15 final\bin\Debug\desafio herencia 15 final.exe.config
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\desafio herencia 15 final\bin\Debug\desafio herencia 15 final.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\desafio herencia 15 final\bin\Debug\desafio herencia 15 final.pdb

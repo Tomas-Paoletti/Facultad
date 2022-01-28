@@ -1,0 +1,7 @@
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\Ejercicio_2_clase\Juego obstaculos(segunda clase)\Juego obstaculos(segunda clase\obj\Debug\Juego obstaculos(segunda clase.csproj.AssemblyReference.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\Ejercicio_2_clase\Juego obstaculos(segunda clase)\Juego obstaculos(segunda clase\obj\Debug\Juego obstaculos(segunda clase.csproj.CoreCompileInputs.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\Ejercicio_2_clase\Juego obstaculos(segunda clase)\Juego obstaculos(segunda clase\bin\Debug\Juego obstaculos(segunda clase.exe.config
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\Ejercicio_2_clase\Juego obstaculos(segunda clase)\Juego obstaculos(segunda clase\bin\Debug\Juego obstaculos(segunda clase.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\Ejercicio_2_clase\Juego obstaculos(segunda clase)\Juego obstaculos(segunda clase\bin\Debug\Juego obstaculos(segunda clase.pdb
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\Ejercicio_2_clase\Juego obstaculos(segunda clase)\Juego obstaculos(segunda clase\obj\Debug\Juego obstaculos(segunda clase.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\Ejercicio_2_clase\Juego obstaculos(segunda clase)\Juego obstaculos(segunda clase\obj\Debug\Juego obstaculos(segunda clase.pdb

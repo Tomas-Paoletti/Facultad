@@ -1,6 +1,0 @@
-C:\Users\tomia\Desktop\UDA\boludeces\hello wordl\bin\Debug\hello wordl.exe.config
-C:\Users\tomia\Desktop\UDA\boludeces\hello wordl\bin\Debug\hello wordl.exe
-C:\Users\tomia\Desktop\UDA\boludeces\hello wordl\bin\Debug\hello wordl.pdb
-C:\Users\tomia\Desktop\UDA\boludeces\hello wordl\obj\Debug\hello wordl.csproj.CoreCompileInputs.cache
-C:\Users\tomia\Desktop\UDA\boludeces\hello wordl\obj\Debug\hello wordl.exe
-C:\Users\tomia\Desktop\UDA\boludeces\hello wordl\obj\Debug\hello wordl.pdb

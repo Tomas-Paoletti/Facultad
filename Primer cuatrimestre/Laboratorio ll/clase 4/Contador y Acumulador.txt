@@ -1,0 +1,1 @@
+Un acumulador es una variable cuya misión es almacenar cantidades variables. Se utiliza para efectuar sumas sucesivas. La principal diferencia con el contador es que el incremento o decremento de cada suma es variable en lugar de constante como en el caso del contador.

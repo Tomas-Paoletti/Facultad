@@ -12,7 +12,8 @@ import java.util.logging.Logger;
  * @author tomia_n55eokc
  */
 public class Pisos extends Inmueble{
-    //atributos
+    //
+    Clear
     private int Piso_inmueble;
 //constructor
     public Pisos(double Cant_metros, int Antiguedad,  String Direccion, int piso_inmueble) {

@@ -1,0 +1,7 @@
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\herencia\herencia\obj\Debug\herencia.csproj.AssemblyReference.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\herencia\herencia\obj\Debug\herencia.csproj.CoreCompileInputs.cache
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\herencia\herencia\bin\Debug\herencia.exe.config
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\herencia\herencia\bin\Debug\herencia.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\herencia\herencia\bin\Debug\herencia.pdb
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\herencia\herencia\obj\Debug\herencia.exe
+C:\Users\tomia_n55eokc\OneDrive\Escritorio\Facultad\Laboratorio ll\proyectos\herencia\herencia\obj\Debug\herencia.pdb

@@ -1,0 +1,49 @@
+/* CSS */
+
+header {
+    background-color: darksalmon;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkslateblue;
+    padding: 1px;
+}
+
+body { /*selecciona tags/elementos */
+    background-color: #ffffff;
+    padding: 100px;
+    
+}
+
+a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10pt;
+}
+
+a:link {
+    color: darkolivegreen;
+}
+
+a:active {
+    color: chocolate;
+}
+a:hover {
+    color: crimson;
+}
+a:visited {
+    color: darkmagenta;
+}
+
+#formulario { /*selecciona con "id="*/
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+.clase {
+    color: blue
+}
+
+* { /*selecciona todos los elementos*/
+    margin: 0px;
+    padding: 10px;
+}
+

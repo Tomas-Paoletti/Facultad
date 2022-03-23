@@ -1,0 +1,26 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+	
+	int num, numOriginal, cifras;
+	
+	cout<<"Ingrese un numero"<<endl;
+	cin>>num;
+	
+	numOriginal = num;
+	
+	//contador de cifras
+	cifras = 0;
+	
+	do{
+		num = num/10;	
+		cifras++; 		//cifras = cifras + 1;
+	} while(num != 0);
+	
+	cout<<"El numero "<<numOriginal<<" tiene "<<cifras<<" cifras"<<endl;
+	
+	system("pause");
+	return 0;
+}

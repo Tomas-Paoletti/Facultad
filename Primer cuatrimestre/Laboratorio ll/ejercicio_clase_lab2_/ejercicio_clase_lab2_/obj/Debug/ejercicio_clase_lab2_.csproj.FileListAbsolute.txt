@@ -1,7 +1,0 @@
-C:\Users\tomia_n55eokc\source\repos\ejercicio_clase_lab2_\ejercicio_clase_lab2_\bin\Debug\ejercicio_clase_lab2_.exe.config
-C:\Users\tomia_n55eokc\source\repos\ejercicio_clase_lab2_\ejercicio_clase_lab2_\bin\Debug\ejercicio_clase_lab2_.exe
-C:\Users\tomia_n55eokc\source\repos\ejercicio_clase_lab2_\ejercicio_clase_lab2_\bin\Debug\ejercicio_clase_lab2_.pdb
-C:\Users\tomia_n55eokc\source\repos\ejercicio_clase_lab2_\ejercicio_clase_lab2_\obj\Debug\ejercicio_clase_lab2_.csproj.AssemblyReference.cache
-C:\Users\tomia_n55eokc\source\repos\ejercicio_clase_lab2_\ejercicio_clase_lab2_\obj\Debug\ejercicio_clase_lab2_.csproj.CoreCompileInputs.cache
-C:\Users\tomia_n55eokc\source\repos\ejercicio_clase_lab2_\ejercicio_clase_lab2_\obj\Debug\ejercicio_clase_lab2_.exe
-C:\Users\tomia_n55eokc\source\repos\ejercicio_clase_lab2_\ejercicio_clase_lab2_\obj\Debug\ejercicio_clase_lab2_.pdb

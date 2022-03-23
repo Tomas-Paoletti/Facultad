@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&family=Roboto&display=swap');
+
+body {
+    background-color: aqua;
+    font-family: 'Roboto', sans-serif;
+}
+section.mi-clase1{
+    color: white;
+    font-size: 20px;
+    /*border: salmon dotted 3px;*/
+    border-top: 1px slategray solid;
+    border-right: 1px slategray solid;
+    border-left: 1px blue solid;
+    border-bottom: 1px slategray solid;
+}.mi-calse1{font-size: 30px;}
+
+#quienes-somos{
+    font-size: 40px;
+    background-color: chartreuse;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    font-size: 20px;
+}
+article{
+    background-color: coral !important;
+}
+
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section{
+    background-color: violet;
+}

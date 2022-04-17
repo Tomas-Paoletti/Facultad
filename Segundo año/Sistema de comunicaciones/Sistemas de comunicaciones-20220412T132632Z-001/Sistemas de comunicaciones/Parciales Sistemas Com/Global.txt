@@ -1,0 +1,762 @@
+La Ley de Snell explica:
+
+Seleccione una:
+a. La cantidad de frecuencias que pueden viajar por la fibra.
+b. La medición de cantidades de Información a enviar en un canal de comunicaciones.
+c. Ninguna de ellas. 
+d. La tasa de error en la fibra.
+e. La cantidad de muestras que debo tomar para realizar modulación digital en una señal.
+
+Retroalimentación
+La respuesta correcta es: Ninguna de ellas.
+
+--------------------------------------------------------------------
+
+Pregunta 2
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Cada una de las componentes armónicas de una señal digital siempre es una señal senoidal simple. 
+
+Seleccione una:
+Verdadero 
+Falso
+
+Retroalimentación
+La respuesta correcta es 'Verdadero'
+
+--------------------------------------------------------------------
+
+Pregunta 3
+Finalizado
+Puntúa como 3,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Indique en un documento las dos últimas cifras de su matrícula. Anote el número correspondiente en la hoja e identifíquelo como A.
+Para una inteface de vidrio (n1 = 1,5) / cuarzo (n2 = 0,75), considere un haz con un ángulo de incidencia igual a A que incide de n1 a n2.
+
+Determine si:
+
+A) se refracta  
+
+B) se refleja    
+
+C) se refracta por la unión  
+
+D) Ninguna de ellas
+
+Muestre en el documento los cálculos detallados que realizó para obtener dicha conclusión, y realice un gráfico representativo de lo que ocurre.
+
+Ahora analice qué ocurre (con el mismo ángulo de incidencia), en caso que el haz vaya desde el cuarzo hacia el vidrio.
+
+
+Imagen (JPEG) Emmanuel Muñiz - Pregunta 3.jpg
+
+--------------------------------------------------------------------
+
+Pregunta 4
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+¿En las fibras ópticas se mide relación señal a ruido?
+
+Seleccione una:
+a. Sí, siempre.
+b. Solo en el caso de las fibras multimodo.
+c. Sólo en el caso de las fibras monomodo.
+d. No 
+e. Depende del tipo de ruido que la influya.
+
+Retroalimentación
+La respuesta correcta es: No
+
+
+--------------------------------------------------------------------
+
+Pregunta 5
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+La frecuencia de muestreo de una señal analógica depende de:
+
+Seleccione una:
+a. La amplitud de la señal de entrada.
+b. Ninguna de ellas. 
+c. Del error de muestreo admitido.
+d. Ambas.
+
+Retroalimentación
+La respuesta correcta es: Ninguna de ellas.
+
+
+--------------------------------------------------------------------
+
+Pregunta 6
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Si dispongo de un enlace inalámbrico (aire) y debo transmitir una señal digital binaria (una base de datos) a distancias importantes a través del mismo, utilizo:
+
+Seleccione una:
+a. QAM 
+b. PCM
+c. FM
+d. No modulo, transmito en banda base.
+e. AM
+
+Retroalimentación
+La respuesta correcta es: QAM
+
+--------------------------------------------------------------------
+
+Pregunta 7
+Incorrecta
+Puntúa 0,00 sobre 2,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Si dispongo de un enlace de fibra óptica como canal de comunicaciones, indique qué tipo de modulación utilizaría para transmitir una señal de video por ella, utilizo:
+
+Seleccione una:
+a. QAM
+b. PCM
+c. PSK
+d. No modulo, transmito en banda base. 
+e. ASK
+f. FSK
+
+Retroalimentación
+La respuesta correcta es: PCM
+
+--------------------------------------------------------------------
+
+Pregunta 8
+Incorrecta
+Puntúa 0,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Un error de cuantización menor será conveniente para el sistema de comunicaciones PCM que esté implementando, sin ningún otro perjucio
+
+Seleccione una:
+Verdadero 
+Falso
+
+Retroalimentación
+NO. Ya que un menor error de cuantización me consume más ancho de banda.
+
+--------------------------------------------------------------------
+
+La respuesta correcta es 'Falso'
+Pregunta 9
+Incorrecta
+Puntúa 0,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+En un sistema 16PSK, la señal modulada siempre se mantiene de la misma frecuencia que la señal portadora.
+
+Seleccione una:
+Verdadero 
+Falso
+
+Retroalimentación
+No, cuando la frecuencia cambia, hay un cambio de fase.
+
+La respuesta correcta es 'Falso'
+
+--------------------------------------------------------------------
+
+Pregunta 10
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+No existe ningún método de modulación donde la velocidad de transmisión sea igual a la velocidad de modulación.
+
+Seleccione una:
+Verdadero
+Falso 
+
+Retroalimentación
+La respuesta correcta es 'Falso'
+
+--------------------------------------------------------------------
+
+Pregunta 11
+Correcta
+Puntúa 2,00 sobre 2,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+He recibido en el Rx lo siguiente: 10001011 (7 bits más bit de paridad PAR).
+
+El tren de bits no tiene errores
+
+Seleccione una:
+Verdadero 
+Falso
+
+Retroalimentación
+La respuesta correcta es 'Verdadero'
+
+--------------------------------------------------------------------
+
+Pregunta 12
+Finalizado
+Puntúa como 5,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Indique los últimos 3 dígitos de su matrícula, anótelo e identifíquelo con la variable B.
+
+Tengo un disco rígido de B MBytes. Lo utilizaré para almacenar música de máxima fidelidad (Ancho de banda de 20-20000 Hz),
+y pretendo hacerlo con un nivel máximo de error de cuantización del 1%.
+
+Indique el tiempo de música que es posible almacenar en el dispositivo.
+
+Si ahora pretendo guardar el doble del tiempo que conseguí guardar en el ejercicio anterior, indique qué debería modificar en el sistema para conseguirlo.
+
+Para ser considerado válido, debe enviar TODO el desarrollo realizado para llegar al valor final.
+
+Para guardar el doble de tiempo, deberia modificar el disco rígido.
+Imagen (JPEG) Emmanuel Muñiz - Pregunta 12.jpg
+
+--------------------------------------------------------------------
+
+Pregunta 13
+Correcta
+Puntúa 2,00 sobre 2,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Para una velocidad de transmisión de 14400 bps en un esquema de modulación 8 PSK, debo tener una velocidad de modulación
+
+Seleccione una:
+a. 4800 baudios 
+b. 2400 baudios
+c. 1200 baudios
+d. 14400 baudios
+
+Retroalimentación
+La respuesta correcta es: 4800 baudios
+
+--------------------------------------------------------------------
+
+Pregunta 14
+Incorrecta
+Puntúa 0,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Si dispongo de un enlace inalámbrico (aire) y debo transmitir una señal de audio a distancias importantes a través del mismo, utilizo:
+
+Seleccione una:
+a. QAM 
+b. FSK
+c. No modulo, transmito en banda base.
+d. PCM
+e. ASK
+f. FM
+
+Retroalimentación
+La respuesta correcta es: FM
+
+--------------------------------------------------------------------
+
+Pregunta 15
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Usando el código corrector de errores CRC en un paquete binario expresado en hexadecimal 45AB, con un cociente igual a A6 y resto igual a B4 Indique la forma final del paquete de datos a transmitir.
+
+Seleccione una:
+a. 45AB*B4 
+b. 45*A6AB
+c. A6*45AB
+d. 45AB*A6
+
+Retroalimentación
+La respuesta correcta es: 45AB*B4
+
+--------------------------------------------------------------------
+
+Pregunta 16
+Incorrecta
+Puntúa 0,00 sobre 2,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Determine la capacidad de un canal con un ancho de banda de 10 KHz si sabe que la S/R es igual 5000 veces
+
+Seleccione una:
+a. 36,99 kbps.
+b. Ninguna de ellas 
+c. 1228 bps.
+d. 12,28 Kbps.
+e. 122 bps.
+f. 122,8 Kbps
+
+Retroalimentación
+La respuesta correcta es: 122,8 Kbps
+
+--------------------------------------------------------------------
+
+Pregunta 17
+Incorrecta
+Puntúa 0,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+VER La portadora cambia su amplitud en un sistema de modulación 8QAM. 
+
+Seleccione una:
+Verdadero 
+Falso
+
+Retroalimentación
+La portadora nunca cambia su amplitud. La que cambia su amplitud es la señal modulada.
+La respuesta correcta es 'Falso'
+
+--------------------------------------------------------------------
+
+Pregunta 18
+Incorrecta
+Puntúa 0,00 sobre 2,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+En un sistema de codificación PCM 30+2, el tiempo que pasa entre 2 muestras de un mismo canal analógico es:
+
+Seleccione una:
+a. Ninguna de ellas. 
+b. 30,3 microsegundos.
+c. 12,5 microsegundos.
+d. 1250 microsegundos.
+e. 25 microsegundos.
+f. 125 microsegundos.
+
+Retroalimentación
+La respuesta correcta es: 125 microsegundos.
+
+--------------------------------------------------------------------
+
+Pregunta 19
+Incorrecta
+Puntúa 0,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+En un sistema de comunicaciones de baja frecuencia (par de cobre transmitiendo señales de entre 300 y 3000 Hz), la onda reflejada es:
+
+Seleccione una:
+a. No existe onda reflejada a esa frecuencia.
+b. a veces perjudica, y a veces favorece al enlace 
+c. Indeseable
+d. Deseable
+
+Retroalimentación
+La respuesta correcta es: No existe onda reflejada a esa frecuencia.
+
+--------------------------------------------------------------------
+
+Pregunta 20
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Si mi canal es de tipo digital, ninguno de los métodos de modulación estudiados (ASK, FSK, PSK, QAM, PCM) me son de utilidad para transmitir información.
+
+Seleccione una:
+Verdadero
+Falso 
+
+Retroalimentación
+La respuesta correcta es 'Falso'
+
+--------------------------------------------------------------------
+
+Pregunta 21
+Correcta
+Puntúa 2,00 sobre 2,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+En un sistema de transmisión de voz codificado en PCM 30+2, se transmite en cada trama:
+
+Seleccione una:
+a. 30 muestras de distintas comunicaciones aleatorias de voz.
+b. 32 muestras de distintas comunicaciones de voz ordenadas.
+c. 30 muestras de la misma comunicación de voz.
+d. 30 muestras de la misma comunicación de voz.
+e. Ninguna de ellas.
+f. 30 muestras de distintas comunicaciones de voz ordenadas. 
+
+Retroalimentación
+La respuesta correcta es: 30 muestras de distintas comunicaciones de voz ordenadas.
+
+--------------------------------------------------------------------
+
+Pregunta 22
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Si necesita enlazar dos edificios distanciados en 1500 m y se trabajará con una velocidad de 155 Mbps ¿Por qué se podrían utilizar fibras multimodo?
+
+Seleccione una:
+a. Ninguna de ellas
+b. Poca distancia y velocidad 
+c. Por los emisores de luz
+d. Por los fotodiodos
+
+Retroalimentación
+La respuesta correcta es: Poca distancia y velocidad
+
+--------------------------------------------------------------------
+
+Pregunta 23
+Incorrecta
+Puntúa 0,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Si tengo un canal de comunicación formado por 2 cables uno a continuación del otro, con 4 dB de atenuación cada uno, la atenuación del canal completo es de 8 dB.
+
+Seleccione una:
+Verdadero
+Falso 
+
+Retroalimentación
+La respuesta correcta es 'Verdadero'
+
+--------------------------------------------------------------------
+
+Pregunta 24
+Sin contestar
+Puntúa como 4,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Complete la constelación del sistema de modulación 16QAM que esta más abajo en hoja aparte.
+
+Sobre ella grafique o marque las secuencias que aparecerán a la salida de ese modulador en caso de tener el siguiente tren de bits a la entrada: 101100111000101010001001 
+ 
+--------------------------------------------------------------------
+
+Pregunta 25
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+La dispersión cromática será mayor en:
+
+Seleccione una:
+a. Fibras multimodo de índice escalón 
+b. No depende del tipo de fibra
+c. Fibras monomodo de índice gradual
+d. Es en todas las fibras el mismo valor
+e. Fibras multimodo de índice gradual
+f. Fibras monomodo de índice escalón
+
+Retroalimentación
+La respuesta correcta es: Fibras multimodo de índice escalón
+
+--------------------------------------------------------------------
+
+Pregunta 26
+Incorrecta
+Puntúa 0,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+La Capacidad de un canal de transmisión digital de información depende:
+
+Seleccione una:
+a. Sólo del Ancho de banda. 
+b. Sólo del nivel de ruido.
+c. Ninguno de los anteriores
+d. De la frecuencia de la señal digital.
+
+Retroalimentación
+La respuesta correcta es: Ninguno de los anteriores
+
+--------------------------------------------------------------------
+
+Pregunta 27
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Seleccione la definición correcta de ángulo crítico en una fibra óptica
+
+Seleccione una:
+a. Ángulo de incidencia necesario para que el haz se refracte.
+b. Ángulo de incidencia que hace que el haz viaje por el núcleo.
+c. Ángulo de incidencia que hace que el haz se refleja por la unión del núcleo y el recubrimiento. 
+d. La definición de ángulo crítico no tiene relación alguna con el ángulo de incidencia.
+
+Retroalimentación
+La respuesta correcta es: Ángulo de incidencia que hace que el haz se refleja por la unión del núcleo y el recubrimiento.
+
+--------------------------------------------------------------------
+
+Pregunta 28
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+DWDM es:
+
+Seleccione una:
+a. La unión de haces de distintas frecuencias en fibras multimodos
+b. La unión de haces de distintas frecuencias para varias fibras
+c. La unión de haces de distintas frecuencias en dos haces.
+d. Ninguna de ellas 
+
+Retroalimentación
+La respuesta correcta es: Ninguna de ellas
+
+--------------------------------------------------------------------
+
+Pregunta 29
+Correcta
+Puntúa 2,00 sobre 2,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Indicar de los siguientes métodos de modulación en cuál de ellos el canal de comunicaciones debe ser digital.
+
+Seleccione una:
+a. PSK
+b. PCM 
+c. 16 QAM
+d. ASK y FSK
+
+Retroalimentación
+La respuesta correcta es: PCM
+
+--------------------------------------------------------------------
+
+Pregunta 30
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+¿Cuál es la relación existente entre la velocidad de transmisión (Vtx) y la velocidad de modulación (Vmod), en un sistema 8 QAM
+
+Seleccione una:
+a. Vmod es ocho Veces Vtx
+b. Vtx es igual a Vmod
+c. Vtx es ocho Veces Vmod
+d. Vmod es cuatro Veces Vtx
+e. Vtx es cuatro veces Vmod
+f. Ninguna de ellas. 
+
+Retroalimentación
+La respuesta correcta es: Ninguna de ellas.
+
+--------------------------------------------------------------------
+
+Pregunta 31
+Incorrecta
+Puntúa 0,00 sobre 1,00
+No marcadasMarcar pregunta
+Enunciado de la pregunta
+
+Tengo una señal digital de 120 Hz de frecuencia. Si esta señal debe pasar por un canal de ancho de banda entre 100 Hz y 650 Hz ¿Cuántas componentes armónicas aparte de la frecuencia fundamental pasan?
+Seleccione una:
+a. Pasan todas las componentes
+b. Cuatro
+c. Tres
+d. Otra.
+e. No pasa ninguna componente.
+f. Cinco 
+
+Retroalimentación
+La respuesta correcta es: Cuatro
+
+--------------------------------------------------------------------
+
+Pregunta 32
+Incorrecta
+Puntúa 0,00 sobre 2,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Para obtener una señal modulada en 64 QAM se necesita disponer de una modulante:
+
+Seleccione una:
+a. Analógica acotada.
+b. Ninguna de ellas
+c. Analógica senoidal. 
+d. Digital senoidal
+
+Retroalimentación
+La respuesta correcta es: Ninguna de ellas
+
+--------------------------------------------------------------------
+
+Pregunta 33
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Si un amplificador tiene entre su entrada y salida 0 dB de ganancia, significa que por su salida no está emitiendo señal alguna.
+
+Seleccione una:
+Verdadero
+Falso 
+
+Retroalimentación
+La respuesta correcta es 'Falso'
+
+--------------------------------------------------------------------
+
+Pregunta 34
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Defina señal digital
+
+Seleccione una:
+a. Otra.
+b. Toda señal de variación contínua en el tiempo.
+c. Toda señal que toma valores infinitos en un determinado tiempo.
+d. Toda señal que toma valores finitos en un intervalo de tiempo. 
+
+Retroalimentación
+La respuesta correcta es: Toda señal que toma valores finitos en un intervalo de tiempo.
+
+--------------------------------------------------------------------
+
+Pregunta 35
+Correcta
+Puntúa 2,00 sobre 2,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Conociendo los índices de refracción de 2 medios, M1>M2, y un haz con ángulo de incidencia menor que al ángulo crítico. ¿El haz se reflejará?
+
+Seleccione una:
+a. No 
+b. Dependerá de la Temperatura de cada uno de los medios.
+c. No puedo saberlo con esos datos.
+d. Ninguna de ellas es correcta.
+e. Dependerá de los índices de refracción de M1 y M2.
+
+--------------------------------------------------------------------
+
+Retroalimentación
+La respuesta correcta es: No
+Pregunta 36
+Incorrecta
+Puntúa 0,00 sobre 2,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Con una velocidad de modulación de 2200 baudios y un esquema de modulación de 16 QAM, se alcanza una velocidad de transmisión de:
+
+Seleccione una:
+a. Ninguna de ellas
+b. 2200 bps
+c. 550 bps 
+d. 137,5 bps
+e. 4400 bps
+
+Retroalimentación
+La respuesta correcta es: Ninguna de ellas
+
+--------------------------------------------------------------------
+
+Pregunta 37
+Sin contestar
+Puntúa como 3,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Grafique en el dominio del tiempo, el siguiente tren de bits (100110011) modulado en (mostrar la portadora y las señales moduladas):
+
+4ASK
+FSK
+
+--------------------------------------------------------------------
+
+Pregunta 38
+Correcta
+Puntúa 2,00 sobre 2,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Si por un medio de transmisión que tiene un ancho de banda de 10 KHz, se desea transmitir datos. 
+¿Qué frecuencia de la señal digital máxima se alcanzará, si necesito que pasen tres componentes de la señal?
+
+Seleccione una:
+a. 3000 Hz 
+b. 4000 Hz
+c. 3500 Hz
+d. 5000 Hz
+
+Retroalimentación
+La respuesta correcta es: 3000 Hz
+
+--------------------------------------------------------------------
+
+Pregunta 39
+Incorrecta
+Puntúa 0,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+La longitud de onda de una señal digital se calcula como:
+
+Seleccione una:
+a. un múltiplo par de la analógica.
+b. Igual que una analógica.
+c. El doble de una analógica.
+d. La mitad de una analógica.
+e. Un multiplo impar de la analógica. 
+f. Ninguna de ellas
+
+Retroalimentación
+La respuesta correcta es: Igual que una analógica.
+
+--------------------------------------------------------------------
+
+Pregunta 40
+Correcta
+Puntúa 1,00 sobre 1,00
+No marcadasMarcar pregunta
+
+Enunciado de la pregunta
+Un cable STP de categoría 5 se diferencia con un UTP en:
+Seleccione una:
+a. El conector
+b. Ninguno de ellos 
+c. Un par
+d. El tipo de cobre que utilizan dentro de cada par
+e. Dos pares
+
+Retroalimentación
+La respuesta correcta es: Ninguno de ellos

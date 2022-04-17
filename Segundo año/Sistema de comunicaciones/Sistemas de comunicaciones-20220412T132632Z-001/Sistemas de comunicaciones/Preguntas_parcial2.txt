@@ -1,0 +1,357 @@
+Dentro del espectro de señales utilizado en fibras ópticas, las mejores son:
+Seleccione una:
+a. Las senales que tienen frecuencias por debajo de la luz visible. 
+b. Las señales que tienen frecuencias algo por encima de la luz visible.
+c. Las señales de luz visible.
+d. Las señales que tienen frecuencias del orden de 100.000 Mhz
+
+La respuesta correcta es: Las senales que tienen frecuencias por debajo de la luz visible.
+
+
+Con un material M1 con índice de refracción n= 1,3 y otro material M2 con índice n= 1.8 se desea construir una fibra óptica. Indique cual material sería para el núcleo y cual para el recubrimiento (en ese orden);
+Seleccione una:
+a. M2,M1 
+b. M1,M2, M1
+c. M1,M2
+d. M2,M1,M2
+Retroalimentación
+
+La respuesta correcta es: M2,M1
+
+
+El hecho de que en una línea balanceada el ruido influya sobre ambos conductores es:
+Seleccione una:
+a. Es incorrecta la afirmación porque el ruido no influye sobre ambos conductores.
+b. Perjudicial
+c. Es indiferente, no perjudica al proceso de comunicaciones
+d. Beneficioso 
+
+La respuesta correcta es: Beneficioso
+
+
+A 100 Mhz, un cable coaxil RG59U atenúa respecto de un cable coaxil RG213U:
+Seleccione una:
+a. Su atenuación es semejante
+b. La atenuación no depende del modelo del cable coaxil
+c. Es mucho mayor, cercana a más de 4 veces
+d. aproximadamente el doble 
+
+La respuesta correcta es: Es mucho mayor, cercana a más de 4 veces
+
+
+Las ventanas de atenuación de las fibras ópticas indican:
+Seleccione una:
+a. La capacidad de transmisión de información de distintas fibras ópticas.
+b. Ninguna de ellas.
+c. Los diferentes niveles de ruido que tienen los modelos de FO.
+d. Los diversos niveles de atenuación que posee una fibra para cada longitud de onda.
+
+La respuesta correcta es: Los diversos niveles de atenuación que posee una fibra para cada longitud de onda.
+
+
+¿Defina ángulo crítico en una fibra óptica?
+Seleccione una:
+a. Ninguno de ellos
+b. Ángulo con el que debe incidir el haz de luz para reflejarse por la unión del núcleo y el recubrimiento. 
+c. Ángulo con que debe incidir el haz de luz para refractarse.
+d. Ángulo con que debe incidir el haz de luz para viajar por adentro del núcleo.
+
+La respuesta correcta es: Ángulo con el que debe incidir el haz de luz para reflejarse por la unión del núcleo y el recubrimiento.
+
+
+Si tengo una FO en la que recubrimeinto es n1=0,8 y el nùcleo es n2=1 cuál es el ángulo máximo de incidencia de la luz que podrá viajar por la fibra?
+Seleccione una:
+a. Aproximadamente 53° 
+b. Aproximadamente 37°
+c. 53,13º
+d. Cualquier haz de luz podrá viajar por la fibra siempre que llegue a su extremo.
+La respuesta correcta es: 53,13º
+
+
+Si tengo un medio muy ruidoso de comunicaciones, y debo implementar un sistema de detección de errores. Indique si elegiría un esquema de detección par o impar (elija el mas eficiente):
+Seleccione una:
+a. Es mas conveniente paridad impar.
+b. Es mas conveniente paridad par
+c. Es indistinto. 
+d. No puedo determinarlo
+
+La respuesta correcta es: Es indistinto.
+
+
+Si un haz de luz va de un medio menos denso a uno mas denso:
+Seleccione una:
+a. El haz siempre se va a refractar. 
+b. El haz siempre se va a reflejar.
+c. El haz no va a poder pasar de un medio a otro.
+d. No puedo saber si el haz se va a reflejar o refractar
+
+La respuesta correcta es: El haz siempre se va a refractar.
+
+
+Cuál de los indicados a continuación pueden considerarse como una línea de transmisión por su comportamiento:
+Seleccione una:
+a. sólo el cable coaxil
+b. Sólo el par trenzado
+c. Sólo el cable UTP
+d. Todos los indicados se comportan como líneas de transmisión 
+La respuesta correcta es: Todos los indicados se comportan como líneas de transmisión
+
+
+Para que no haya onda reflejada debo:
+Seleccione una:
+a. No hay forma de que no haya onda reflejada
+b. Hacer que la carga resistiva tenga un valor de resistencia igual a la impedancia característica. 
+c. Hacer que la línea sea bien larga.
+d. Hacer que la potencia emitida en la línea de transmisión no supere un umbral de diseño especificado.
+e. Debo desconectar la carga resistiva que la línea tiene conectada en su extremo.
+La respuesta correcta es: Hacer que la carga resistiva tenga un valor de resistencia igual a la impedancia característica.
+
+
+Si tengo una FO en la que n1=1 y n2=0,8 cuál es el ángulo máximo de incidencia de la luz que podrá viajar por la fibra?
+Seleccione una:
+a. Aproximadamente 37°
+b. Cualquier haz de luz podrá viajar por la fibra siempre que llegue a su extremo.
+c. Aproximadamente 53°
+d. Nunca podrá viajar un haz de luz por esa fibra.
+La respuesta correcta es: Aproximadamente 37°
+
+
+La atenuación cromática se debe
+Seleccione una:
+a. A diferentes modos de propagación de haces fotónicos
+b. A diferentes modos de propagación de haces cromáticos
+c. Ninguna de ellas
+d. A diferentes modos de propagación de haces monocrromáticos
+La respuesta correcta es: A diferentes modos de propagación de haces cromáticos
+
+
+En una fibra óptica no existe atenuación:
+Seleccione una:
+a. Depende del tipo de fibra.
+b. Depende del emisor
+c. Verdadero.
+d. Falso
+La respuesta correcta es: Falso
+
+
+La Ley de Snell explica:
+Seleccione una:
+a. Ninguna de ellas.
+b. La medición de cantidades de Información.
+c. La Capacidad de un Canal.
+d. Las impedancias de un canal y su relación con su capacidad.
+La respuesta correcta es: Ninguna de ellas.
+
+
+Puedo conectar una linea balanceada con una desbalanceada?
+Seleccione una:
+a. Si, puedes conectarlas libremente
+b. No, es inadmisible su conexión
+c. Se pueden conectar si igualamos la tensión del cable que no se conecta a tierra
+d. Si, en caso de usar accesorios denominados balunes
+La respuesta correcta es: Si, en caso de usar accesorios denominados balunes
+
+
+El cable con mayor inmunidad al ruido es:
+Seleccione una:
+a. FTP
+b. SFTP
+c. STP
+d. UTP
+e. LTP
+La respuesta correcta es: SFTP
+
+
+El efecto del trenzado de un cable es:
+Seleccione una:
+a. A los fines de la transmisión de datos, no tiene influencia.
+b. se facilita la constucción
+c. la reducción del ruido total en el receptor
+d. Se reduce la impedancia del cable
+La respuesta correcta es: la reducción del ruido total en el receptor
+
+
+¿Un cable UTP de categoría 5 tiene cuantos pares?
+Seleccione una:
+a. 4 hilos
+b. cuatro pares
+c. dos pares
+d. 6 hilos
+La respuesta correcta es: cuatro pares
+
+
+Si no existiese ruido, cómo sería la eficiencia de una línea balanceada respecto de una desbalanceada?
+Seleccione una:
+a. Sería mas conveniente una línea balanceada
+b. El ruido no afecta la eficiencia de una línea de transmisión
+c. serían iguales
+d. Sería mas conveniente una línea desbalanceada
+La respuesta correcta es: serían iguales
+
+
+Si tengo un enlace de 7 Km, en el que el transmisor emite una potencia de 5 dBm y el receptor tiene una sensibilidad de -2 dBm. Seleccione una Fibra óptica:
+Seleccione una:
+a. FO con atenuación de 0,1 dB/Km
+b. FO con atenuación de 1 dB/Km
+c. FO con atenuación de 0,7 dB/Km
+d. ninguna de ellas sirve.
+e. FO con atenuación de 0,5 dB/Km
+f. FO con atenuación de 2 dB/Km
+La respuesta correcta es: FO con atenuación de 1 dB/Km
+
+
+Si tengo una fibra óptica 1 con AN=38° y otra fibra óptica 2 con AN=17°, indique en cuál se podrá lograr disponer de mayor potencia en el receptor ante un haz que incide en el extremo transmisor.
+a. En la Fibra 1.
+b. En la Fibra 2.
+c. La potencia recibida no depende de la AN.
+d. En ambas la potencia recibida será la misma.
+La respuesta correcta es: En la Fibra 1.
+
+
+La capa de recubrimiento externa plástica de la Fibra óptica, se utiliza para evitar que los haces de luz se pierdan hacia fuera de la fibra en su viaje.
+a. Depende del material de la FO
+b. Falso
+c. Verdadero
+d. Depende del diodo emisor
+La respuesta correcta es: Falso
+
+
+Si tengo un empalme en una línea de transmisión, esto me provoca principalmente:
+a. Ninguna de ellas
+b. Aumento de la onda incidente
+c. Onda reflejada
+d. deformación y distorsión de la señal
+La respuesta correcta es: Onda reflejada
+
+
+Cualquier método de detección de errores necesita incorporar bits adicionales a los de información original, por lo que siempre empeorará el rendimiento del sistema de comunicaciones.
+a. Es correcto;
+b. Depende de la tasa de errores del canal
+c. Ninguna de las anteriores
+d. Es Falso
+La respuesta correcta es: Es correcto;
+
+
+El trenzado de un par se beneficioso para:
+a. Su atenuación.
+b. Su ancho de banda.
+c. Su instalación.
+d. Su inmunidad al ruido.
+La respuesta correcta es: Su inmunidad al ruido.
+
+
+En DWDM utilizaría fibra:
+a. Cualquiera de las dos.
+b. multimodo
+c. monomodo
+d. Depende del prisma
+La respuesta correcta es: monomodo
+
+
+Suponiendo un enlace de FO en la cual n1=1 y n2=1,1 y que posee las siguientes características: a)Potencia del transmisor es de 10 dB; b) Sensibilidad máxima del receptor es de - 55 dB. Si la distancia a cubrir es de 500 m, ¿Cuantos amplificadores de 5 dB deberé poner además del transmisor para que el enlace funcione?.
+a. Mas de tres
+b. dos
+c. tres
+d. Ninguno
+e. Otra respuesta
+La respuesta correcta es: Otra respuesta
+
+
+A mayor longitud de onda, siempre una fibra óptica tiene mayor atenuación.
+a. La atenuación no depende de la longitud de onda.
+b. No es correcta esa afirmación.
+c. Es correcta esa afirmación
+La respuesta correcta es: No es correcta esa afirmación.
+
+
+Para una inteface de vidrio (n = 1,43) / cuarzo ( n = 1,55), un haz con un ángulo de incidencia de 44º. Determine
+a. Se refracta por la unión
+b. otra
+c. Se refracta
+d. Se refleja
+La respuesta correcta es: Se refracta
+
+
+Para lograr que un haz se refleje debo:
+a. Hacerlo incidir con un ángulo menor al ángulo crítico
+b. Hacerlo incidir con un ángulo mayor al ángulo crítico
+c. Hacerlo incidir con un ángulo igual al ángulo crítico
+La respuesta correcta es: Hacerlo incidir con un ángulo mayor al ángulo crítico
+
+
+Para una inteface de cuarzo (n = 1,55) / vidrio ( n = 1,43), un haz con un ángulo de incidencia de 44º desde el vidrio al cuarzo,¿Qué sucederá?
+a. otra
+b. se refracta por la unión
+c. se refractara
+d. se reflejara
+La respuesta correcta es: se refractara
+
+
+En qué tipo de fibra tengo mayor apertura numérica:
+a. En aquellas FO vidrio-plástico
+b. Da lo mismo, no depende de la tecnología.
+c. FO Multimodo
+d. FO Monomodo
+La respuesta correcta es: FO Multimodo
+
+
+En un canal sin ruido (o con ruido mínimo), indique cuál método de detección de errores adoptaría:
+a. CRC.
+b. Paridad Par
+c. Paridad IMPAR
+d. Paridad en Bloques.
+La respuesta correcta es: CRC.
+
+
+Suponiendo un enlace de FO que posee las siguientes características: a)Atenuación del cable por cada 100 m :1,1 dB; b)Potencia del transmisor es de 10 dB; c) Sensibilidad máxima del receptor es de - 35 dB. la atenucaiòn de la FO es de 1,5 DB/100 m.Si la distancia a cubrir es de 5500 m, ¿Cuantos amplificadores de 5 dB deberé poner además del transmisor?.
+a. dos
+b. This choice was deleted after the attempt was started.
+c. cinco
+d. tres
+e. Ninguno
+f. This choice was deleted after the attempt was started.
+La respuesta correcta es: Ninguno
+
+
+Si tengo una línea de transmisión infinita:
+a. La potencia reflejada es menor que la potencia incidente
+b. No hay forma de lograr que se propague potencia en una línea infinita.
+c. La potencia reflejada es igual a cero.
+d. La potencia reflejada es igual a la potencia incidente.
+e. Sólo hay potencia reflejada.
+La respuesta correcta es: La potencia reflejada es igual a cero.
+
+
+Si tengo que transmitir mas de una señal de forma simultánea por una FO:
+a. Puedo utilizar haces de distinta longitud de onda para cada señal.
+b. Puedo utilizar haces de distinta potencia para cada señal.
+c. No es posible transmitir más de una señal de forma simultánea en una FO.
+d. deberé inevitablemente darle un pequeño período de tiempo de la FO a cada señal.
+La respuesta correcta es: Puedo utilizar haces de distinta longitud de onda para cada señal.
+
+
+Arme un esquema de detección de errores de tipo paridad en bloques (7 filas x 7 columnas sin considerar los bits de paridad), y un esquema de detección de errores de tipo checksum (información 512 bytes, cabecera 1 byte y fin de trama 3 bytes).Indique cuál elegiría si tiene un promedio de 1 error en 1 bit cada 800 bytes.
+a. Es indistinto
+b. Paridad en Bloques
+c. No puedo saberlo
+d. Checksum
+La respuesta correcta es: Checksum
+
+
+A 500 Mhz, entre un conductor de cobre sólido de 3 mm de diámetro y un caño hueco de 3 mm de diámetro exterior, preferiría:
+a. El cable sólido porque posee mas cobre conductor por unidad de longitud.
+b. El cable sólido porque tiene mucha menor resistencia.
+c. No se puede transmitir una señal de esa frecuencia por un caño hueco.
+d. El caño, porque es igual de eficiente pero mas barato.
+La respuesta correcta es: El caño, porque es igual de eficiente pero mas barato.
+
+
+La impedancia característica de un cable, depende de:
+a. la temperatura del cable
+b. la forma de conectar el cable
+c. la longitud del cable
+d. las dimensiones físicas y forma del cable
+La respuesta correcta es: las dimensiones físicas y forma del cable
+
+
+

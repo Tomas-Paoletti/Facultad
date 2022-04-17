@@ -1,0 +1,249 @@
+Si a una señal analógica que posee componentes de frecuencia desde 330 Hz a 5269 Hz. Se la digitaliza con una codificación de 10 bit,¿Cuántos bits se transmitirá en un segundo?
+Seleccione una:
+a. 10538 b/s
+b. 105380 b/s
+c. 10538Kb/s bits/s
+d. 10 bits/s
+Retroalimentación
+La respuesta correcta es: 105380 b/s
+
+
+Si un sistema de amplificación tiene en la entrada una señal de 54 W y se espera a la salida una ganancia de 13,5dB ¿Cuál será el valor de la señal a la salida?
+Seleccione una:
+a. 1200 W
+b. 540 W
+c. 1350 W
+d. 1208,90 W
+Retroalimentación
+La respuesta correcta es: 1208,90 W
+
+
+En un esquema de modulación 32 QAM, de las señales participantes, ¿Cuál es analógica y cuál digital?
+Seleccione una:
+a. La portadora y la modulante digital
+b. La portadora analógica y la modulante digital
+c. La portadora digital y la modulante analógica
+d. La portadora y modulante digital
+Retroalimentación
+La respuesta correcta es: La portadora analógica y la modulante digital
+
+
+La relación S/R de un canal de comunicaciones donde el ruido iguala en amplitud a la señal, es de:
+Seleccione una:
+a. Relación S/R de 0 dB.
+b. Relación S/R de -1 dB
+c. Relación S/R de 1 dB.
+d. Relación S/R de 3 dB.
+Retroalimentación
+La respuesta correcta es: Relación S/R de 0 dB.
+
+
+La distorsión es un fenómeno que se origina en lo siguiente:
+Seleccione una:
+a. El ruido que perjudica a la señal que viaja por un canal.
+b. Las distintas componentes de una señal compuesta se atenúan de diferente forma en el canal.
+c. Las distintas componentes de una señal compuesta se atenúan de igual forma en el canal.
+d. La atenuación que siempre aparece y afecta a todas las señales que viajan por un canal.
+Retroalimentación
+La respuesta correcta es: Las distintas componentes de una señal compuesta se atenúan de diferente forma en el canal.
+
+
+Dibuje la señal de salida de un amplificador cuyo ancho de banda es igual a 100 Hz a 3000 Hz y se le aplica una señal digital de frecuencia igual a 2500 Hz.
+Seleccione una:
+a. Las componenestes digitales hasta 3000 Hz
+b. una señal sinusoidal de 2500 Hz
+c. Ninguna de ellas
+d. Todas las componenetes de la señal digital
+Retroalimentación
+La respuesta correcta es: una señal sinusoidal de 2500 Hz
+
+
+En un esquema de modulación 4 FSK. ¿Cuantas combinaciones puedo codificar?.
+Seleccione una:
+a. 8
+b. 2
+c. 16
+d. Ninguna de ellas
+Retroalimentación
+La respuesta correcta es: Ninguna de ellas
+
+
+Ud posee una señal modulante de 300 a 3000 Hz, y modula dicha señal en AM con una portadora de 700Khz. Indique la componente de frecuencia mínima que tendrá en la señal modulada.
+Seleccione una:
+a. Ninguna de las anteriores.
+b. 700.000 Hz
+c. 697.000 Hz
+d. 699.700 Hz
+Retroalimentación
+La respuesta correcta es: 697.000 Hz
+
+
+Si tengo una señal de AM con un índice de modulación = 1, indicar si:
+Seleccione una:
+a. Hay más de una respuesta correcta en las otras opciones.
+b. La amplitud de la portadora es 2 veces la amplitud de cada Banda Lateral.
+c. La amplitud de la portadora es igual a la amplitud de la modulante.
+d. La amplitud de la portadora es igual a la amplitud de una Banda Lateral.
+Retroalimentación
+La respuesta correcta es: Hay más de una respuesta correcta en las otras opciones.
+
+
+Si el ancho de banda de una señal analógica es de 16 KHz y deseo digitalizarlo para enviarlo por un sistema PCM de 30 canal. ¿Cuantos bytes de información tendré por segundo?
+Seleccione una:
+a. 256 Kb/s
+b. 128 b/s
+c. 128 Kb/s
+d. 32 Kb/s
+Retroalimentación
+La respuesta correcta es: 256 Kb/s
+
+
+¿Qué indica una relación señal a ruido de 10 dB?
+Seleccione una:
+a. Que la señal es igual ruido
+b. Que el ruido es 10 veces mayor a la señal
+c. Que la señal es 10 vece mayor al ruido
+d. Que la señal es 10 dB mayor al ruido
+Retroalimentación
+Las respuestas correctas son: Que la señal es 10 vece mayor al ruido, Que la señal es 10 dB mayor al ruido
+
+
+Si la componente fundamental de una señal compuesta es de 400 Hz, indique cuáles pueden ser las armónicas correctas de ella:
+Seleccione una:
+a. 100 Hz, 200 Hz, 400 Hz
+b. 800 Hz, 8000 Hz, 80000 Hz
+c. 400 Hz, 800 Hz, 4000 Hz
+d. 200 Hz, 400 Hz, 800 Hz
+Retroalimentación
+La respuesta correcta es: 800 Hz, 8000 Hz, 80000 Hz
+
+
+Si tengo un sistema inalámbrico donde el transmisor emite 10 mW de potencia y al receptor llegan 5 mW, calcule el nivel de atenuación que tiene ese canal en dB.
+Seleccione una:
+a. Atenuación de 5 dB
+b. Atenuación de 6 dB
+c. Atenuación de 3 dB
+d. Atenuación de 2 Db
+Retroalimentación
+La respuesta correcta es: Atenuación de 3 dB
+
+
+En un esquema de modulación 16 FSK. Indique las amplitudes de las combinaciones y de la portadora
+Seleccione una:
+a. La amplitud de las combinaciones es el doble al de la portadora
+b. La amplitud de la portadora es el doble al de las combinaciones
+c. La amplitud de las combinaciones y la portadora son iguales
+d. Ninguna de ellas 
+Retroalimentación
+La respuesta correcta es: La amplitud de las combinaciones y la portadora son iguales
+
+
+En todo sistema de comunicaciones existe atenuación y ruido.
+Seleccione una:
+a. Es correcto. 
+b. Cuando existe uno de los efectos, el otro no aparece.
+c. No, en algunos sistemas de comunicaciones una de estos efectos no se encuentra.
+d. A veces uno de los dos fenómenos no aparece.
+Retroalimentación
+La respuesta correcta es: Es correcto.
+
+
+¿Cuál de las siguientes opciones de ancho de banda de un amplificador elegiría para que pase una señal digital de 5 KHz?
+Seleccione una:
+a. 5000 Hz
+b. 5KHz
+c. 500 Hz
+d. 50 KHz 
+Retroalimentación
+La respuesta correcta es: 50 KHz
+
+
+Si el índice de ruido es igual a 0 dB ¿Qué nos está indicando?
+Seleccione una:
+a. Que la potencia de ruido es igual a la potencia de señal 
+b. Que la potencia de ruido es cero
+c. Ninguna de las anteriores
+d. Que la potencia de señal es cero
+Retroalimentación
+La respuesta correcta es: Que la potencia de ruido es igual a la potencia de señal
+
+
+¿Cuál es la máxima relación de potencia de la banda lateral a la potencia total transmitida en AM?
+Seleccione una:
+a. Cada banda lateral es un 30% de la potencia de AM
+b. Ninguna de las anteriores 
+c. Cada banda lateral es un 50% de la potencia de AM
+d. Cada banda lateral es un 25% de la potencia de AM
+Retroalimentación
+La respuesta correcta es: Cada banda lateral es un 25% de la potencia de AM
+
+
+Si una señal tiene una frecuencia de 756 MHz. ¿ Calcule la longitud de onda, período y desfasaje en dicha
+señal?
+Seleccione una:
+a. λ= 39,68 cm, T= 1,32 μs, ⱷ = 0°
+b. λ= 39,68 Km, T= 1,32 ns, ⱷ = 0° 
+c. λ= 39,68 m, T= 1,32 μs, ⱷ = 180°
+d. λ= 39,68 cm, T= 1,32 ns, ⱷ = 0°
+La respuesta correcta es: λ= 39,68 cm, T= 1,32 ns, ⱷ = 0°
+
+
+Considerando una modulación digital PCM para la voz utilizando una codificación de 7 bit u de 8 bit.
+¿Indique si los tiempos de muestreo son distintos?
+Seleccione una:
+a. Depende la cantidad de bits 
+b. Depende de la cantidad de combinaciones
+c. Depende de la cantidad de canales
+d. Ninguna de ellas
+La respuesta correcta es: Ninguna de ellas
+
+
+Usted conoce que el Ancho de Banda de un canal de comunicaciones es de 120 Khz. También sabe que la
+Frecuencia central de ese canal es a 600 Khz. Indique cómo es la relación del nivel de atenuación de la
+señal a 500 Khz respecto de la atenuación a 600 Khz:
+Seleccione una:
+a. 3 dB.
+b. Menos de 3 dB 
+c. Ninguna de las anteriores.
+d. Más de 3 dB.
+La respuesta correcta es: Más de 3 dB.
+
+
+Si tuviese que elegir entre dos amplificadores que tiene uno una relación S/R = 40 dB y otro de una
+relación S/R = 20 dB, ¿Cuál elegiría y por qué?
+Seleccione una:
+a. Cualquiera de los dos
+b. Ninguno de los dos
+c. el de 20 dB porque tiene menos ruido
+d. el de 40 dB porque tiene menos ruido 
+La respuesta correcta es: el de 40 dB porque tiene menos ruido
+
+
+En un esquema de modulación 16 PSK, ¿En el demodulador la fase de la señal demoduladora debe ser
+igual a que señal?
+Seleccione una:
+a. Al promedio de las dos señales
+b. A la señal modulante
+c. Ninguna de ellas
+d. A la señal portadora 
+La respuesta correcta es: A la señal portadora
+
+
+Se desea transmitir a 9.600 bps y se cuenta con un modem de 2400 baudio/s con modulación PSK. Indique
+que esquema utilizaría.
+Seleccione una:
+a. 4PSK
+b. 4QAM
+c. 16 PSK
+d. 8 PSK
+La respuesta correcta es: 4PSK
+
+
+Si en un sistema de modulación de 8 PSK la modulante es una señal digital de 8 bits cada palabra ¿
+Cuantos cambios de fase enviare por cada palabra?
+Seleccione una:
+a. 24 cambios por palabra
+b. 8 cambios por palabra 
+c. 3 cambios por palabra
+d. Ninguna de ellas
+La respuesta correcta es: 3 cambios por palabra
